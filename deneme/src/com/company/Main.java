@@ -19,5 +19,7 @@ public class Main {
         System.out.println(average);
 
         System.out.println(average/2);
+
+        System.out.println(average*8);
     }
 }
