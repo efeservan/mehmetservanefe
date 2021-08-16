@@ -17,5 +17,7 @@ public class Main {
         double average = (maths+physics+chemistry+literature+history+musics)/6;
 
         System.out.println(average);
+
+        System.out.println(average/2);
     }
 }
