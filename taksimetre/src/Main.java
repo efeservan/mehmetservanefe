@@ -9,6 +9,6 @@ public class Main {
         if(fatura<20){
             fatura = 20;
         }
-        System.out.println("Odenecek tutar : "+fatura+" tldir.");
+        System.out.println("Odenecek tutar : "+fatura+" tl'dir");
     }
 }
